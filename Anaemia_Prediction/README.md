@@ -1,0 +1,3 @@
+# Anaemia Prediction
+
+*Anemia prediction using machine learning involves developing and deploying models that can accurately identify individuals who are likely to be anemic based on various input features or biomarkers. These features might include demographic data (age, gender), physiological measurements (hemoglobin levels, red blood cell count), lifestyle factors, and medical history. The goal is to predict whether a person has anemia or not, aiding in early detection and treatment.*
